@@ -1,0 +1,13 @@
+C:\Users\abdu\source\repos\Laskin\Laskin\bin\Debug\netcoreapp3.1\Laskin.exe
+C:\Users\abdu\source\repos\Laskin\Laskin\bin\Debug\netcoreapp3.1\Laskin.deps.json
+C:\Users\abdu\source\repos\Laskin\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.json
+C:\Users\abdu\source\repos\Laskin\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.dev.json
+C:\Users\abdu\source\repos\Laskin\Laskin\bin\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\abdu\source\repos\Laskin\Laskin\bin\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.csprojAssemblyReference.cache
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfoInputs.cache
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfo.cs
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\abdu\source\repos\Laskin\Laskin\obj\Debug\netcoreapp3.1\Laskin.genruntimeconfig.cache
